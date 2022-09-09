@@ -1,0 +1,10 @@
+.env
+.venv
+.github
+env/
+venv/
+*.sh
+__pycache__/
+.idea/
+flask_session/
+.azure
