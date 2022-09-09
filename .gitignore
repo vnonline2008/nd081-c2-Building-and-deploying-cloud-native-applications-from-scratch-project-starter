@@ -3,6 +3,7 @@
 .github
 env/
 venv/
+./NeighborlyFrontEnd/venv/
 *.sh
 __pycache__/
 .idea/
