@@ -9,3 +9,5 @@ __pycache__/
 .idea/
 flask_session/
 .azure
+.python_packages
+.vscode
